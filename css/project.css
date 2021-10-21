@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Merienda&family=Montez&family=Montserrat:wght@200;400&family=Suranna&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montez&display=swap');
+#lk{
+ font-family: 'Great Vibes', cursive;
+ font-size: 40px;
+ color: #fcda9a;
+ display: flex;
+ position: sticky;
+}
+#l1{
+    margin-top: 52px;
+    margin-left: 105px;
+    font-family: 'Merienda', cursive;
+    position: absolute;
+    color: #fcda9a;
+
+}
+.nav-item{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 40px;
+}
+#a1{
+    margin-left: 77px;
+}
+.rw{
+    height: 1000px;
+    width: 100%;
+}
+.r1{
+    height: 550px;
+    width: 1480px;
+    border: solid 1px black;
+}
+#img1{
+    height: 685px;
+    width: 1480px;
+    
+}
+.r2{
+    color: white;
+    position: absolute;
+    margin-left: 163px;
+    margin-top: -380px;
+    height: 300px;
+    width: 500px;
+    
+}
+#h1{
+    margin-left: 190px;
+    color: #fcda9a;
+    font-size: 56px;
+    font-family: 'Montez', cursive;
+}
+#h2{
+    margin-left: 80px;
+    font-size: 45px;
+    color:white;
+
+    font-family: 'Suranna', serif;
+}
+i{
+    color:   #fcda9a;
+    margin-left: 250px;
+    size: 20px;
+}
+.hr1{
+    position: absolute;
+    
+    width: 123px;
+    margin-left: 123px;
+    margin-top: -18px;
+}
+hr:not([size]) {
+    height: 2px;
+}
+.hr2{
+    position: absolute;
+    
+    width: 123px;
+    margin-left: 281px;
+    margin-top: -18px;
+
+}
+#sm1{
+    margin-left: 215px;
+    font-family: 'Suranna', serif;
+
+}
+#sm2{
+    margin-left: 190px;
+    font-family: 'Suranna', serif;
+
+}
+#sm3{
+    margin-left: 205px;
+    font-family: 'Suranna', serif;
+
+}
+.r3{
+    
+
+    
+    
+    height: 550px;
+    width: 1480px;
+
+
+}
+#img2{
+    height: 420px;
+    width: 350px;
+    margin-left: 500px;
+    margin-top: -747px;
+}
+.r4{
+    height: 403px;
+    width: 331px;
+    border: solid 1px black;
+    margin-top: -584px;
+    margin-left: 510px;
+    position: absolute;
+}
+h3{
+    font-family: 'Montez', cursive;
+    margin-left: 83px;
+    color: #b48c80;
+     font-size: 50px;
+}
+#lf{
+    font-family: 'Suranna', serif;
+    font-size: 36px;
+    margin-left: 38px;
+    margin-top: -13px;
+    color: black;
+
+}
+#l2{
+    font-family: 'Suranna', serif;
+     text-align: center;
+}
+#hr3{
+    color: #b48c80;
+    width: 185px;
+    margin-left: 75px;
+    margin-top: -5px;
+
+    
+    
+
+}
+.r5{
+    margin-top: 135px;
+    height: 600px;
+    width: 1480px;
+    border: solid 1px black;
+}
+.r6{
+    height: 495px;
+    width: 800px;
+    
+    margin-top: 40px;
+    margin-left: 60px;
+    position: absolute;
+
+}
+#img3{
+    height: 230px;
+    width: 250px;
+    margin-top: 3px;
+}
+.r7{
+    border: solid 1px black;
+    height: 500px;
+    width: 628px;
+    margin-left: 850px;
+    margin-top: 68px;
+
+}
+#f1{
+    margin-left: 5px;
+}
+#menu{
+    height: 100px;
+    width: 105px;
+    margin-top: 17px;
+    position: absolute;
+    
+    
+}
+.r8{
+    font-family: 'Suranna', serif;
+
+    margin-top: 0px;
+    margin-left: 112px;
+    height: 126px;
+    width: 440px;
+    border: solid 1px black;
+}
+strong{
+    
+    font-size: 12px;
+    font-family: 'Suranna', serif;
+
+}
+b{
+    position: absolute;
+    font-size: 50px;
+    margin-left: 443px;
+    margin-top: -100px;
+    font-family: 'Montez', cursive;
+    color:  #b48c80;;
+}
+.r9{
+    font-family: 'Suranna', serif;
+
+    margin-top: 0px;
+    margin-left: 112px;
+    height: 126px;
+    width: 440px;
+    border: solid 1px black;
+
+}
+.r10{
+    font-family: 'Suranna', serif;
+
+    margin-top: 0px;
+    margin-left: 112px;
+    height: 126px;
+    width: 440px;
+    border: solid 1px black;
+
+}
