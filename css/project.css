@@ -150,34 +150,35 @@ h3{
 }
 .r5{
     margin-top: 135px;
-    height: 600px;
+    height: 910px;
     width: 1480px;
-    border: solid 1px black;
+    
 }
 .r6{
     height: 495px;
     width: 800px;
     
     margin-top: 40px;
-    margin-left: 60px;
+    margin-left: 35px;
     position: absolute;
 
 }
 #img3{
-    height: 230px;
-    width: 250px;
+    height: 270px;
+    width: 255px;
     margin-top: 3px;
 }
 .r7{
-    border: solid 1px black;
-    height: 500px;
+    border: solid 1px white;
+    height: 840px;
     width: 628px;
     margin-left: 850px;
-    margin-top: 68px;
+    margin-top: 50px;
 
 }
 #f1{
     margin-left: 5px;
+    margin-top: 50px;
 }
 #menu{
     height: 100px;
@@ -194,7 +195,7 @@ h3{
     margin-left: 112px;
     height: 126px;
     width: 440px;
-    border: solid 1px black;
+    
 }
 strong{
     
@@ -217,7 +218,7 @@ b{
     margin-left: 112px;
     height: 126px;
     width: 440px;
-    border: solid 1px black;
+    
 
 }
 .r10{
@@ -227,6 +228,135 @@ b{
     margin-left: 112px;
     height: 126px;
     width: 440px;
-    border: solid 1px black;
+    
 
+}
+.r11{
+    font-family: 'Suranna', serif;
+
+    margin-top: 0px;
+    margin-left: 112px;
+    height: 126px;
+    width: 440px;
+    
+
+}
+.r12{
+    font-family: 'Suranna', serif;
+
+    margin-top: 0px;
+    margin-left: 112px;
+    height: 126px;
+    width: 440px;
+    
+
+}
+.r13{
+    font-family: 'Suranna', serif;
+
+    margin-top: 0px;
+    margin-left: 112px;
+    height: 126px;
+    width: 440px;
+    
+
+}
+.r14{
+    margin-top: 10px;
+    height: 650px;
+    width: 1480px;
+
+}
+#dining1{
+    height: 537px;
+    width: 360px;
+    margin-left: 140px;
+    margin-top: 85px;
+}
+#dining2{
+    height: 537px;
+    width: 360px;
+    margin-left: 475px;
+    margin-top: 85px;
+    position: absolute;
+
+}
+.r15{
+    height: 537px;
+    width: 472px;
+    margin-top: -580px;
+    margin-left: 501px;
+}
+#f2{
+    margin-top: 50px;
+    margin-left: 160px;
+    font-size: 40px;
+}
+#lf1{
+    font-family: 'Suranna', serif;
+    font-size: 36px;
+    margin-left: 88px;
+    margin-top: -13px;
+    color: black;
+
+}
+#div1{
+    height: 326px;
+    width: 320px;
+    margin-left: 74px;
+    margin-top: 10px;
+
+}
+.r16{
+    height: 200px;
+    width: 1480px;
+    
+    background-color:whitesmoke;
+}
+
+#footer{
+    width: 1480px;
+    height: 200px;
+}
+.r17{
+    position: absolute;
+    margin-top: -187px;
+    margin-left: 635px;
+    height: 150px;
+    width: 300px;
+    
+    font-family: 'Suranna', serif;
+    color: white;
+}
+#l3{
+    margin-top: -28px;
+    margin-left: 105px;
+    font-family: 'Merienda', cursive;
+    position: absolute;
+    color: #fcda9a;
+    
+
+}
+#adress{
+    margin-left: -40px;
+}
+.r18{
+    position: absolute;
+    height: 50px;
+    width: 250px;
+    margin-left: 80px;
+    margin-top: -50px;
+    
+}
+#fab1{
+    margin-left: 10px;
+}
+#fab2{
+    margin-left: 20px;
+}
+#fab3{
+    margin-left: 25px;
+}
+#fab4{
+    margin-left: 30px;
 }
